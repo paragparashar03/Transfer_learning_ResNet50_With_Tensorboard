@@ -9,4 +9,7 @@ I have changed the last layer of the ResNet50 model as we have only 4 categories
 
 #Dataset: Data file is provided as zip file along with ipynb file
 
-TensorBoard has been used in this code for better Visualization of Epoch accuracy, loss vs No. of Epochs. It is an effective callback method from Keras. Results have been included in both ipnb and doc file.
+TensorBoard has been used in this code for better Visualization of Epoch accuracy, loss vs No. of Epochs. It is an effective callback method from Keras. Results have been included in both ipynb and doc file.
+
+# Tensorboard link:
+https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/TensorBoard?version=stable
